@@ -1,5 +1,6 @@
 # Get input from the user
-number = int(input("Enter a number: "))
+input = input("Enter a number: ")
+number = int(input)
 
 # Check if the number is greater than five
 if number > 5:
